@@ -4,7 +4,7 @@ This folder contains your resume in multiple formats based on the provided image
 
 ## Files Created
 
-### 1. **resume.html** (12 KB)
+### 1. **index.html** (12 KB)
 - Professional HTML resume with two-column layout
 - Matches the format from your image
 - Includes all sections: Summary, Experience, Education, Certifications, Skills, Languages, Projects, and Find Me Online
